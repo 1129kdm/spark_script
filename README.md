@@ -1,4 +1,4 @@
-## colleration
+## correlation
 sparkでレコメンドエンジンを作った際のプロトタイプ。
 
 ## jobmail
